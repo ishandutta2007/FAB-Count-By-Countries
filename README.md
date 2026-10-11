@@ -1,28 +1,39 @@
-# Global Semiconductor Fab Count by Country & ASML Lithography Status
+<p align="center">
+  <img src="assets/banner.svg" alt="Global Semiconductor Fab Count Banner" width="100%" />
+</p>
 
+# 🏭 Global Semiconductor Fab Count by Country & ASML Lithography Status
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Semiconductor Fabs](https://img.shields.io/badge/Data-Semiconductor_Fabs-blue.svg)](#)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 A comprehensive, curated dataset detailing the global distribution of semiconductor fabrication plants (**fabs**), operating counts by country/region, **ASML lithography equipment status** (EUV vs. DUV), and major domestic semiconductor manufacturers.
 
-## Table of Contents
-- [Overview](#overview)
-- [Global Semiconductor Fab Statistics](#global-semiconductor-fab-statistics)
-- [Key Insights & Terminology](#key-insights--terminology)
-- [Contributing](#contributing)
-- [License](#license)
+---
+
+## 📌 Table of Contents
+- [🌐 Overview](#-overview)
+- [📊 Global Semiconductor Fab Statistics](#-global-semiconductor-fab-statistics)
+- [💡 Key Insights & Terminology](#-key-insights--terminology)
+- [🔍 Keywords](#-keywords)
+- [🤝 Contributing](#-contributing)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [📜 License](#-license)
 
 ---
 
-## Overview
+## 🌐 Overview
 
 Semiconductor manufacturing capability is a critical benchmark for technological sovereignty, geopolitics, and global supply chain resilience. This repository tracks active and operational front-end semiconductor fabrication plants across key markets including Taiwan, Japan, the United States, China, South Korea, Germany, and emerging hubs like India.
 
 ---
 
-## Global Semiconductor Fab Statistics
+## 📊 Global Semiconductor Fab Statistics
 
-| Country / Region | Operating Fabs Count | ASML Lithography Equipment Status | Major Domestic Fabs & Specialties |
+| 🌍 Country / Region | 🏭 Operating Fabs Count | 🔬 ASML Lithography Equipment Status | 🏢 Major Domestic Fabs & Specialties |
 | :--- | :---: | :--- | :--- |
 | **Japan** | 96 | **DUV Only** *(EUV incoming)* | Sony, Kioxia, Renesas, Rapidus (2nm EUV line). |
 | **Taiwan** | 79 | **EUV & DUV** | TSMC, UMC, Vanguard, Powerchip. Global advanced logic leader. |
@@ -47,24 +58,43 @@ Semiconductor manufacturing capability is a critical benchmark for technological
 
 ---
 
-## Key Insights & Terminology
+## 💡 Key Insights & Terminology
 
-- **EUV (Extreme Ultraviolet Lithography)**: Next-generation lithography required for sub-7nm process nodes, exclusively produced by ASML (Netherlands).
-- **DUV (Deep Ultraviolet Lithography)**: Standard lithography technology used for mature and advanced nodes (down to 7nm using multi-patterning).
-- **Front-End Fab vs. OSAT**: Front-end fabs manufacture integrated circuit (IC) silicon wafers, distinct from back-end OSAT (Outsourced Semiconductor Assembly and Test) packaging plants.
+- 🟣 **EUV (Extreme Ultraviolet Lithography)**: Next-generation lithography required for sub-7nm process nodes, exclusively produced by ASML (Netherlands).
+- 🔵 **DUV (Deep Ultraviolet Lithography)**: Standard lithography technology used for mature and advanced nodes (down to 7nm using multi-patterning).
+- ⚙️ **Front-End Fab vs. OSAT**: Front-end fabs manufacture integrated circuit (IC) silicon wafers, distinct from back-end OSAT (Outsourced Semiconductor Assembly and Test) packaging plants.
 
 ---
 
-## Keywords
+## 🔍 Keywords
 
 `semiconductor fabs`, `chip manufacturing by country`, `ASML EUV DUV status`, `TSMC fabs count`, `Intel fabs`, `Samsung semiconductor`, `global chip supply chain`, `silicon wafer fabrication plants`
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions, updates, and corrections to fab counts and lithography statuses are welcome! Please open an issue or pull request with credible references.
 
-## License
+---
+
+## 💖 Support & Sponsorship
+
+If you find this dataset helpful and informative, please consider giving it a ⭐ **Star**, sharing it with your network, or forking it! 
+
+Your support is greatly appreciated and helps maintain open-source data initiatives. You can also buy me a coffee via the Sponsor link below:
+
+👉 **[Sponsor & Support on GitHub](https://github.com/sponsors/ishandutta2007)** ☕
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/FAB-Count-By-Countries&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/FAB-Count-By-Countries&type=date&legend=top-left)
+
+---
+
+## 📜 License
 
 This dataset is available under the [MIT License](LICENSE).
+
