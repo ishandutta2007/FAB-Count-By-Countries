@@ -1,5 +1,26 @@
-# FAB-Count-By-Countries
+# Global Semiconductor Fab Count by Country & ASML Lithography Status
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Semiconductor Fabs](https://img.shields.io/badge/Data-Semiconductor_Fabs-blue.svg)](#)
+
+A comprehensive, curated dataset detailing the global distribution of semiconductor fabrication plants (**fabs**), operating counts by country/region, **ASML lithography equipment status** (EUV vs. DUV), and major domestic semiconductor manufacturers.
+
+## Table of Contents
+- [Overview](#overview)
+- [Global Semiconductor Fab Statistics](#global-semiconductor-fab-statistics)
+- [Key Insights & Terminology](#key-insights--terminology)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Overview
+
+Semiconductor manufacturing capability is a critical benchmark for technological sovereignty, geopolitics, and global supply chain resilience. This repository tracks active and operational front-end semiconductor fabrication plants across key markets including Taiwan, Japan, the United States, China, South Korea, Germany, and emerging hubs like India.
+
+---
+
+## Global Semiconductor Fab Statistics
 
 | Country / Region | Operating Fabs Count | ASML Lithography Equipment Status | Major Domestic Fabs & Specialties |
 | :--- | :---: | :--- | :--- |
@@ -24,3 +45,26 @@
 | **Brazil** | 1 | **Older Lithography** *(No modern ASML)* | CEITEC (Porto Alegre). The only operational front-end silicon wafer fab in Latin America, focused on RFID, sensors, and analog chips (350nm–600nm). |
 | **India** | 1 | **DUV Only** *(Ordered)* | Tata Electronics / Powerchip JV (Dholera 300mm), plus CG Semi & compound fabs under the India Semiconductor Mission. |
 
+---
+
+## Key Insights & Terminology
+
+- **EUV (Extreme Ultraviolet Lithography)**: Next-generation lithography required for sub-7nm process nodes, exclusively produced by ASML (Netherlands).
+- **DUV (Deep Ultraviolet Lithography)**: Standard lithography technology used for mature and advanced nodes (down to 7nm using multi-patterning).
+- **Front-End Fab vs. OSAT**: Front-end fabs manufacture integrated circuit (IC) silicon wafers, distinct from back-end OSAT (Outsourced Semiconductor Assembly and Test) packaging plants.
+
+---
+
+## Keywords
+
+`semiconductor fabs`, `chip manufacturing by country`, `ASML EUV DUV status`, `TSMC fabs count`, `Intel fabs`, `Samsung semiconductor`, `global chip supply chain`, `silicon wafer fabrication plants`
+
+---
+
+## Contributing
+
+Contributions, updates, and corrections to fab counts and lithography statuses are welcome! Please open an issue or pull request with credible references.
+
+## License
+
+This dataset is available under the [MIT License](LICENSE).
