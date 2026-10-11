@@ -1,0 +1,122 @@
+[
+  {
+    "country": "Japan",
+    "operating_fabs_count": 96,
+    "asml_lithography_status": "DUV Only (EUV incoming)",
+    "major_domestic_fabs_specialties": "Sony, Kioxia, Renesas, Rapidus (2nm EUV line)."
+  },
+  {
+    "country": "Taiwan",
+    "operating_fabs_count": 79,
+    "asml_lithography_status": "EUV & DUV",
+    "major_domestic_fabs_specialties": "TSMC, UMC, Vanguard, Powerchip. Global advanced logic leader."
+  },
+  {
+    "country": "United States",
+    "operating_fabs_count": 78,
+    "asml_lithography_status": "EUV & DUV",
+    "major_domestic_fabs_specialties": "Intel, Micron, GlobalFoundries, Texas Instruments."
+  },
+  {
+    "country": "China",
+    "operating_fabs_count": 77,
+    "asml_lithography_status": "DUV Only (EUV Banned)",
+    "major_domestic_fabs_specialties": "SMIC, Hua Hong, CXMT, YMTC. Extensive mature-node fleet."
+  },
+  {
+    "country": "Germany",
+    "operating_fabs_count": 20,
+    "asml_lithography_status": "DUV Only (EUV via ESMC JV)",
+    "major_domestic_fabs_specialties": "Infineon, Bosch, GlobalFoundries Fab 1, X-FAB."
+  },
+  {
+    "country": "Singapore",
+    "operating_fabs_count": 17,
+    "asml_lithography_status": "DUV Only",
+    "major_domestic_fabs_specialties": "GlobalFoundries, SSMC, UMC, Micron."
+  },
+  {
+    "country": "South Korea",
+    "operating_fabs_count": 16,
+    "asml_lithography_status": "EUV & DUV",
+    "major_domestic_fabs_specialties": "Samsung Electronics, SK Hynix. Cutting-edge memory & logic."
+  },
+  {
+    "country": "Russia",
+    "operating_fabs_count": 15,
+    "asml_lithography_status": "Legacy DUV / Older Steppers (Sanctioned)",
+    "major_domestic_fabs_specialties": "Mikron (Zelenograd), NM-Tech/Angstrem-T, Pulsar. Primarily 65nm–180nm+ mature/defense silicon; cut off from ASML servicing and new tools due to sanctions."
+  },
+  {
+    "country": "United Kingdom",
+    "operating_fabs_count": 14,
+    "asml_lithography_status": "DUV & Specialty Lithography",
+    "major_domestic_fabs_specialties": "Newport Wafer Fab (Vishay), Clas-SiC, Pragmatic, Diodes Inc. Compound, power, and analog chips."
+  },
+  {
+    "country": "Malaysia",
+    "operating_fabs_count": 6,
+    "asml_lithography_status": "DUV Only",
+    "major_domestic_fabs_specialties": "SilTerra, X-FAB Sarawak. Specialized analog/mixed-signal (outside Malaysia's extensive OSAT/packaging base)."
+  },
+  {
+    "country": "Canada",
+    "operating_fabs_count": 4,
+    "asml_lithography_status": "Older DUV / Specialty Lithography",
+    "major_domestic_fabs_specialties": "Teledyne DALSA (Bromont, QC), Teledyne Micralyne (Edmonton), C2MI. Focuses heavily on MEMS, photonics, and CCD image sensors."
+  },
+  {
+    "country": "Israel",
+    "operating_fabs_count": 3,
+    "asml_lithography_status": "DUV Only",
+    "major_domestic_fabs_specialties": "Intel (Fab 28/Kiryat Gat), Tower Semiconductor."
+  },
+  {
+    "country": "France",
+    "operating_fabs_count": 3,
+    "asml_lithography_status": "DUV Only",
+    "major_domestic_fabs_specialties": "STMicroelectronics (Crolles 300mm), Soitec. Automotive, FD-SOI, and microcontrollers."
+  },
+  {
+    "country": "Austria",
+    "operating_fabs_count": 2,
+    "asml_lithography_status": "DUV Only",
+    "major_domestic_fabs_specialties": "Infineon Technologies (Villach 300mm power fab)."
+  },
+  {
+    "country": "Ireland",
+    "operating_fabs_count": 2,
+    "asml_lithography_status": "EUV & DUV",
+    "major_domestic_fabs_specialties": "Intel Fab 34 (Leixlip). Europe’s only operational high-volume EUV processor fab."
+  },
+  {
+    "country": "Italy",
+    "operating_fabs_count": 2,
+    "asml_lithography_status": "DUV Only",
+    "major_domestic_fabs_specialties": "STMicroelectronics (Agrate 300mm, Catania SiC)."
+  },
+  {
+    "country": "Netherlands",
+    "operating_fabs_count": 2,
+    "asml_lithography_status": "DUV Only",
+    "major_domestic_fabs_specialties": "NXP Semiconductors (Nijmegen). RF and automotive silicon."
+  },
+  {
+    "country": "Australia",
+    "operating_fabs_count": 2,
+    "asml_lithography_status": "Older Steppers / Specialty",
+    "major_domestic_fabs_specialties": "Silanna Semiconductor (Brisbane/Sydney), Australian National Fabrication Facility (ANFF). Compound semiconductors, GaN, and power electronics."
+  },
+  {
+    "country": "Brazil",
+    "operating_fabs_count": 1,
+    "asml_lithography_status": "Older Lithography (No modern ASML)",
+    "major_domestic_fabs_specialties": "CEITEC (Porto Alegre). The only operational front-end silicon wafer fab in Latin America, focused on RFID, sensors, and analog chips (350nm–600nm)."
+  },
+  {
+    "country": "India",
+    "operating_fabs_count": 1,
+    "asml_lithography_status": "DUV Only (Ordered)",
+    "major_domestic_fabs_specialties": "Tata Electronics / Powerchip JV (Dholera 300mm), plus CG Semi & compound fabs under the India Semiconductor Mission."
+  }
+]

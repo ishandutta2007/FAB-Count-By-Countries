@@ -2,8 +2,9 @@
 *.bk
 *.env
 *.json
+!data/*.json
 .cache
 __pycache__/
 contributors.txt
 node_modules
-temp_repo_clone
+temp_repo_clone
